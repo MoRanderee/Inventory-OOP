@@ -3,12 +3,7 @@
 This was a capstone project where I developed a program, using my skills in Object Orientated Programming (OOP), that allows a Nike store manager to perform stock-taking in a quick and efficient way.
 
 Nike warehouses store the following information for each stock-taking list:
-● Country
-● Code
-● Product
-● Cost
-● Quantity
-● Value
+Country, Code, Product, Cost, Quantity, Value.
 
 In addition, the program allows other store managers (in other regions) to do the following:
 ● Search products by code.
