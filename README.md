@@ -1,4 +1,4 @@
-# Inventory-OOP
+# Nike Warehousing
 
 This was a capstone project where I developed a program, using my skills in Object Orientated Programming (OOP), that allows a Nike store manager to perform stock-taking in a quick and efficient way.
 
